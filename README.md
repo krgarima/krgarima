@@ -1,7 +1,7 @@
 Hi 👋 My name is Garima
 =======================
 
-Frontend Developer
+Frontend Developer => Full Stack Developer
 ------------------
 
 I am a passionate coder and proficient in HTML, CSS, Vanilla Javascript, React JS library and Redux. Currently, I am part of a bootcamp and looking for job opportunities. Apart from frontend, I am also interested in learning backend development and Blockchain.
