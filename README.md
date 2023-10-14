@@ -4,10 +4,8 @@ Hi 👋 My name is Garima
 Frontend Developer => Full Stack Developer
 ------------------
 
-I am a passionate coder and proficient in HTML, CSS, Vanilla Javascript, React JS library and Redux. Currently, I am part of a bootcamp and looking for job opportunities. Apart from frontend, I am also interested in learning backend development and Blockchain.
+I am a passionate coder and proficient in HTML, CSS, Vanilla Javascript, React JS library, Redux, Typescript, NextJs, NodeJs, Express, Git,...
 
-*   🚀  I'm currently working on [a video library app](http://vokkal.netlify.app/)
-*   🧠  I'm learning React, Redux, Typescript and Testing
 *   🤝  I'm open to collaborating on interesting projects (any).
 
 ### Skills
