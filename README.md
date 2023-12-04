@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Frontend Engineer with 2.5 years of Experience. I am currently working at Neuphony.
+I am Frontend Engineer with 2.5 years of Experience currently working at Neuphony. 
 
 
 ## 🌐 Socials:
