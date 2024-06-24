@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am Frontend Engineer with 2.5 years of Experience currently working at Neuphony. 
-Wondering why the dots are not green then visit this - https://github.com/garimaneuphony [Github Contributions]
+I am Full Stack Engineer
 
 
 ## 🌐 Socials:
