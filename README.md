@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Full Stack Engineer
+Full Stack Engineer at Dexif
 
 
 ## 🌐 Socials:
