@@ -1,15 +1,121 @@
-# 💫 About Me:
-Full Stack Engineer at Dexif
+# 👋 Hi, I'm Garima Kumar
 
+> **Senior Full Stack Engineer** crafting exceptional web experiences with modern React architecture
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/garima-469878175) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/GarimaK29063577) 
+I don't just write code—I architect scalable, accessible, and performant applications that users love and businesses depend on.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-%23CB3837.svg?style=for-the-badge&logo=supabase&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PostgresSQL](https://img.shields.io/badge/postgressql-%23646CFF.svg?style=for-the-badge&logo=postgressql&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=krgarima&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krgarima&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
 
+## 🎯 What Sets Me Apart
+```typescript
+const garima = {
+  expertise: "Modern Frontend Architecture",
+  specialty: "Turning complex problems into elegant solutions",
+  approach: "Accessibility-first, performance-obsessed, user-centric",
+  impact: "Building systems that scale"
+};
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🏗️ Architecture & Design
+- **Design Systems**: Creating and implementing cohesive design languages that scale
+- **Component Libraries**: Building reusable, accessible UI components with shadcn/ui & Radix UI
+- **Feature-Based Architecture**: Scalable codebases that grow with your product
+
+### ⚡ Technical Excellence
+- **React 19 & Next.js 15**: Leveraging cutting-edge features like Server Components and Server Actions
+- **Type Safety**: TypeScript everywhere—catching bugs before they reach production
+- **State Management**: TanStack Query for server state, smart client state patterns
+- **Performance**: Code splitting, lazy loading, optimistic updates—speed matters
+
+### 🎨 User Experience
+- **Accessibility-First**: WCAG compliant, keyboard navigation, screen reader optimized
+- **Responsive Design**: Pixel-perfect across devices, mobile-first approach
+- **Professional Aesthetics**: Attention to detail in color theming, spacing, and interactions
+
+---
+
+## 💼 Engineering Expertise
+
+**Complex Application Architecture**
+- Multi-role dashboard systems with granular permissions
+- Third-party integrations and API orchestration
+- Real-time data management and synchronization
+- PostgreSQL schema optimization for complex business logic
+
+**Content Management Solutions**
+- Headless CMS integration and implementation
+- Custom content workflows for non-technical users
+- Seamless integration with modern frontend frameworks
+
+**UI/UX Development**
+- Sophisticated component systems (dashboards, document management, data visualization)
+- Design system implementation and maintenance
+- Performance-optimized, accessible interfaces
+
+---
+
+## 🚀 Tech Stack
+
+**Frontend Mastery**
+```
+React 19 • Next.js 15 • TypeScript • TanStack Query
+Tailwind CSS • shadcn/ui • Radix UI • Redux
+```
+
+**Backend & Data**
+```
+Node.js • Express.js • PostgreSQL • Supabase • MongoDB
+RESTful APIs • Database Schema Design • Server Actions
+```
+
+**Cloud & DevOps**
+```
+AWS • Vercel • Git • CI/CD • Performance Optimization
+```
+
+**Languages**
+```
+TypeScript • JavaScript • C++ • C • Java
+```
+
+---
+
+## 🌟 My Development Philosophy
+
+> **"Great code is invisible to users—they just experience delight."**
+
+I believe in:
+- 📐 **Architecture over quick fixes** – Build it right, build it once
+- ♿ **Accessibility is non-negotiable** – Everyone deserves great UX
+- 🎯 **User-centric development** – Solve real problems elegantly
+- 📚 **Continuous learning** – Technology evolves, so do I
+- 🤝 **Collaboration** – Best solutions come from great conversations
+
+---
+
+## 💡 Currently Exploring
+
+- Advanced React Server Components patterns
+- AI-powered development workflows
+- Design system automation and documentation
+- Performance optimization at scale
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garima-469878175) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GarimaK29063577)
+
+---
+
+<div align="center">
+
+### 🚀 Open to Senior Full Stack Engineering Opportunities
+
+*Especially interested in roles involving modern frontend architecture, design systems, and scalable application development*
+
+**Let's build something amazing together.**
+
+</div>
+
+---
