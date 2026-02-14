@@ -22,7 +22,7 @@ const garima = {
 - **Feature-Based Architecture**: Scalable codebases that grow with your product
 
 ### ⚡ Technical Excellence
-- **React 19 & Next.js 15**: Leveraging cutting-edge features like Server Components and Server Actions
+- **React 19 & Next.js 16**: Leveraging cutting-edge features like Server Components and Server Actions
 - **Type Safety**: TypeScript everywhere—catching bugs before they reach production
 - **State Management**: TanStack Query for server state, smart client state patterns
 - **Performance**: Code splitting, lazy loading, optimistic updates—speed matters
@@ -58,24 +58,24 @@ const garima = {
 
 **Frontend Mastery**
 ```
-React 19 • Next.js 15 • TypeScript • TanStack Query
+React 19 • Next.js 16 • TypeScript • TanStack Query
 Tailwind CSS • shadcn/ui • Radix UI • Redux
 ```
 
 **Backend & Data**
 ```
-Node.js • Express.js • PostgreSQL • Supabase • MongoDB
+Node.js • Express.js • PostgreSQL • Supabase • MongoDB • FastAPI
 RESTful APIs • Database Schema Design • Server Actions
 ```
 
 **Cloud & DevOps**
 ```
-AWS • Vercel • Git • CI/CD • Performance Optimization
+AWS • Vercel • Git • CI/CD • Performance Optimization • VPS
 ```
 
 **Languages**
 ```
-TypeScript • JavaScript • C++ • C • Java
+TypeScript • JavaScript • C++ • C • Java • Python
 ```
 
 ---
