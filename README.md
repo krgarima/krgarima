@@ -58,8 +58,8 @@ const garima = {
 
 **Frontend Mastery**
 ```
-React 19 • Next.js 16 • TypeScript • TanStack Query
-Tailwind CSS • shadcn/ui • Radix UI • Redux
+React 19 • Next.js 16 • TypeScript • TanStack Query 
+Tailwind CSS • shadcn/ui • Radix UI • Redux • Zustand 
 ```
 
 **Backend & Data**
