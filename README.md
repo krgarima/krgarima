@@ -65,7 +65,7 @@ Tailwind CSS • shadcn/ui • Radix UI • Redux
 **Backend & Data**
 ```
 Node.js • Express.js • PostgreSQL • Supabase • MongoDB • FastAPI
-RESTful APIs • Database Schema Design • Server Actions
+RESTful APIs • Database Schema Design • Server Actions • Web Scraping (Firecrawl)
 ```
 
 **Cloud & DevOps**
